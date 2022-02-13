@@ -1,0 +1,8 @@
+What is Data Science?
+In my opinion, Data Science is an art of shaping the Data. Theory tells that, Data Science is the combination of multiple subjects like statistics, data analysis, machine learning and the list goes on. Also, there might be a situation of adding more to it in the future. As different authors in the David Donoho article try to make inference about topic that plays vital role in data science like whether it is Statistics or Data Analysis or Machine Learning. If we think of what is the most important topic in data science, the DATA itself is the most important thing in the world of Data Science. The information that we need to solve any problem is always present in the data we collect.
+According to Breiman’s “Two Cultures”, 2001 – Both the generative modeling and predictive modeling uses the DATA and make inferences out of it. 
+Mark Liberman, 2010 – Common Task Framework also involves training DATASET to infer the prediction rule, which is used by the referee to run and get the score.
+Most of the challenges like image recognition, speaker identification etc. are solved with the DATA that they have on hand and using it with the right algorithms and script tweaking.
+In order to be a better data scientist, one should know the importance of data and the methodologies to use it in a correct way.
+(David Donoho article – 50 years of Data Science – page: 1 to 10)
+
